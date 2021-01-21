@@ -4,7 +4,7 @@
 
 ## How to build an image
 
-1.this packages must be installed on your system:<br>
+1.these packages must be installed on your system:<br>
 	<br>
 	***apt-get install wget git-core unzip make gcc g++ build-essential subversion sed autoconf<br> 
 	automake texi2html texinfo coreutils diffstat python-pysqlite2 docbook-utils libsdl1.2-dev <br>
